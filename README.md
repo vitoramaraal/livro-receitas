@@ -1,4 +1,4 @@
-# Livro de receitas :man cook:
+# Livro de receitas :men cook:
 
 Olá bem vindo ao meu livro de receitas
 
